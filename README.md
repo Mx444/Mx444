@@ -1,12 +1,3 @@
-
-<div align="center">
-<img src="https://i.ibb.co/fG8FNtzq/morsdev.png" align="center" style="width: 80%" />
-</div>  
-  
-
-<br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
