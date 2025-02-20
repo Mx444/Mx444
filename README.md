@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://i.ibb.co/fG8FNtzq/morsdev.png" align="center" style="width: 100%" />
+<img src="https://i.ibb.co/fG8FNtzq/morsdev.png" align="center" style="width: 80%" />
 </div>  
   
 
@@ -83,5 +83,5 @@
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mx444&hide_border=true&layout=compact" align="left" />  
 
-----
+
 
