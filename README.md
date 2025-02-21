@@ -55,11 +55,19 @@
   <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
   <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+  <a href="https://github.com/features/actions" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions" height="50" /></a>  
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
   <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
   <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
   <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
-  <a href="https://www.portainer.io/" target="_blank"><img style="margin: 10px" src="https://www.portainer.io/hubfs/portainer-logo.svg" alt="Portainer" height="50" /></a>  
+  <a href="https://www.portainer.io/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_100,h_100/https://api.charmhub.io/api/v1/media/download/charm_cMu7M9K6a65FsKZvrLZOZwyQradwbs7E_icon_5cef79c2d18f67464f39c8f2cf2d7ebb815b0071f04d3ffbb94f49fddd3ab666.png" alt="Portainer" height="50" /></a>  
+  <a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/vercel-icon-512x449-3422jidz.png" alt="Vercel" height="50" /></a>  
+  <a href="https://railway.app/" target="_blank"><img style="margin: 10px" src="https://railway.app/brand/logo-light.png" alt="Railway" height="50" /></a>  
+  <a href="https://www.heroku.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" height="50" /></a>  
+  <a href="https://neon.tech/" target="_blank"><img style="margin: 10px" src="https://cdn.prod.website-files.com/625447c67b621ab49bb7e3e5/669fbc4778158e8606eb3e83_favicon%5B1%5D.png" alt="Neon" height="50" /></a>  
+  <a href="https://typicode.github.io/husky/" target="_blank"><img style="margin: 10px" src="https://www.gopablo.co/img/illustration.svg" alt="Husky" height="50" /></a>  
+  <a href="https://eslint.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ESLint_logo.svg/2328px-ESLint_logo.svg.png" alt="ESLint" height="50" /></a>  
+  <a href="https://commitlint.js.org/#/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:360/1*RJLss2tdIVtihhBiSzw7VQ.png" alt="CommitLint" height="50" /></a>  
 </div>
 
 </td></tr></table>
