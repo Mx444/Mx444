@@ -1,6 +1,6 @@
 <br/>
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="40%">
 
 ### Backend
 
@@ -16,7 +16,7 @@
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="40%">
 
 ### Framework
 
@@ -29,7 +29,7 @@
 <a href="https://elysiajs.com/" target="_blank"><img style="margin: 10px" src="https://elysiajs.com/assets/elysia.svg" alt="Elysia" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="40%">
 
 ### Database
 
@@ -47,7 +47,7 @@
 
 <br/>
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="40%">
 
 ### DevOps & Tools
 
