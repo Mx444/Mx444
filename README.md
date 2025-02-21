@@ -2,7 +2,7 @@
 
 <table><tr><td valign="top" width="33%">
 
-### Backend
+### 𝙱𝚊𝚌𝚔𝚎𝚗𝚍
 
 <div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
@@ -18,7 +18,7 @@
 
 </td><td valign="top" width="33%">
 
-### Framework
+### 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔
 
 <div align="center">  
 <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
@@ -31,7 +31,7 @@
 
 </td><td valign="top" width="33%">
 
-### Database
+### 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎
 
 <div align="center">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
@@ -49,7 +49,7 @@
 
 <table><tr><td valign="top" width="33%">
 
-### DevOps & Tools
+### 𝙳𝚎𝚟𝙾𝚙𝚜 & 𝚃𝚘𝚘𝚕𝚜
 
 <div align="center">  
   <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
