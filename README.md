@@ -16,14 +16,6 @@
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 </div>
 
-<div align="center">  
-  
-</div>
-
-<div align="center">  
-  
-</div>
-
 </td><td valign="top" width="33%">
 
 ### Framework
@@ -67,6 +59,7 @@
   <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
   <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
   <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
+  <a href="https://www.portainer.io/" target="_blank"><img style="margin: 10px" src="https://www.portainer.io/hubfs/portainer-logo.svg" alt="Portainer" height="50" /></a>  
 </div>
 
 </td></tr></table>
