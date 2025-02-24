@@ -68,6 +68,10 @@
   <a href="https://typicode.github.io/husky/" target="_blank"><img style="margin: 10px" src="https://www.gopablo.co/img/illustration.svg" alt="Husky" height="50" /></a>  
   <a href="https://eslint.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ESLint_logo.svg/2328px-ESLint_logo.svg.png" alt="ESLint" height="50" /></a>  
   <a href="https://commitlint.js.org/#/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:360/1*RJLss2tdIVtihhBiSzw7VQ.png" alt="CommitLint" height="50" /></a>  
+    <a href="https://www.npmjs.com/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToH3JTTwYl3EuHoPRvUT3c3wc7RvJAA-Y0Iw&s" alt="npm" height="50" /></a>  
+  <a href="https://yarnpkg.com/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/yarn-icon-512x512-sie9o9h0.png" alt="Yarn" height="50" /></a>  
+  <a href="https://pip.pypa.io/en/stable/" target="_blank"><img style="margin: 10px" src="https://www.telecomhall.net/uploads/db2683/original/2X/9/93768e7290bc8c8473a02561ac4e608642cfbaca.png" alt="pip" height="50" /></a>  
+  <a href="https://getcomposer.org/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/919/919840.png" alt="Composer" height="50" /></a>  
+  <a href="https://maven.apache.org/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/file-type-maven-icon-192x256-wb8b12w6.png" alt="Maven" height="50" /></a> 
 </div>
 
-</td></tr></table>
