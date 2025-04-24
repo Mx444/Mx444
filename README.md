@@ -1,4 +1,4 @@
-
+<!-- @format -->
 
 <table><tr><td valign="top" width="33%">
 
@@ -85,10 +85,9 @@
   <a href="https://pip.pypa.io/en/stable/" target="_blank"><img style="margin: 10px" src="https://www.telecomhall.net/uploads/db2683/original/2X/9/93768e7290bc8c8473a02561ac4e608642cfbaca.png" alt="pip" height="50" /></a>
   <a href="https://getcomposer.org/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/919/919840.png" alt="Composer" height="50" /></a>
   <a href="https://maven.apache.org/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/file-type-maven-icon-192x256-wb8b12w6.png" alt="Maven" height="50" /></a>
+    <a href="https://pnpm.io/it/" target="_blank"><img style="margin: 10px" src="https://pnpm.io/it/img/pnpm-no-name-with-frame.svg" alt="Maven" height="50" /></a>
 </div>
 
 </td></tr></table>
 
 <br/>
-
-
