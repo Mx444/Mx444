@@ -41,6 +41,7 @@
 <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>
 <a href="https://orm.drizzle.team/" target="_blank"><img style="margin: 10px" src="https://images.ctfassets.net/sw4ojjqn6qvl/18smWj9R0PQ0yfsQurVCeu/3f47e4f9d73617ccd9a62be2c20de826/drizzle-logo.svg" alt="Drizzle" height="50" /></a>
 <a href="https://typeorm.io/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/30929568/112730670-de09a480-8f58-11eb-9875-0d9ebb87fbd6.png" alt="TypeORM" height="50" /></a>
+<a href="https://mongoosejs.com/" target="_blank"><img style="margin: 10px" src="https://media.licdn.com/dms/image/v2/D4D12AQEk8opKsyHhRQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1693917399837?e=2147483647&v=beta&t=L_IQgiz-aKgF-m3L2lYQxNFCwIKvn09DwxghjuWIF-I" alt="Mongoose" height="50" /></a>
 </div>
 
 </td></tr></table>
