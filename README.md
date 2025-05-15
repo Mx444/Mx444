@@ -87,6 +87,8 @@
   <a href="https://getcomposer.org/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/919/919840.png" alt="Composer" height="50" /></a>
   <a href="https://maven.apache.org/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/file-type-maven-icon-192x256-wb8b12w6.png" alt="Maven" height="50" /></a>
     <a href="https://pnpm.io/it/" target="_blank"><img style="margin: 10px" src="https://pnpm.io/it/img/pnpm-no-name-with-frame.svg" alt="PNPM" height="50" /></a>
+    <a href="https://dbeaver.io/" target="_blank"><img style="margin: 10px" src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" alt="DBeaver" height="50" /></a>
+
     <a href="https://compodoc.app/" target="_blank"><img style="margin: 10px" src="https://avatars3.githubusercontent.com/u/23202313" alt="Compodoc" height="50" /></a>
 
 </div>
