@@ -59,9 +59,7 @@
   <a href="https://nodejs.org/en/learn/getting-started/websocket" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/websocket-icon-1024x769-b74mi87d.png" alt="WebSocket" height="50" /></a>
 </div>
 
-</td></tr></table>
 
-<br/>
 
 </td><td valign="top" width="33%">
 
