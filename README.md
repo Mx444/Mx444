@@ -94,7 +94,6 @@
 <div align="center">
     <a href="https://dbeaver.io/" target="_blank"><img style="margin: 10px" src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" alt="DBeaver" height="50" /></a>
     <a href="https://www.beekeeperstudio.io/" target="_blank"><img style="margin: 10px" src="https://www.beekeeperstudio.io/assets/img/logos/bk-logo-yellow-icon-c964a711bdf65aea45c437211468e08896ad7e5dd5fb4e7f9136e8e62868d5c4dcd9bfa63b94ca38914685d3da8d732ea0d73e39c161b01c6a9ee298de4ea374.svg" alt="BeekeeperStudio" height="50" /></a>
-    <a href="https://webyog.com/product/sqlyog/" target="_blank"><img style="margin: 10px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_0f3c2e06516704a6a902831d7e2f1de9/sqlyog.png" alt="SQLyog" height="50" /></a>
 </div>
     <td valign="top" width="33%">
 
