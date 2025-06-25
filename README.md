@@ -45,7 +45,7 @@
 <div align="center">
     <a href="https://restfulapi.net/" target="_blank"><img style="margin: 10px" src="https://media.lordicon.com/icons/wired/gradient/1330-rest-api.svg" alt="REST" height="50" /></a>
     <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="GraphQL" height="50" /></a>
-    <a href="https://swagger.io/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/swagger-icon-2048x2048-563qbzey.png" alt="Swagger" height="50" /></a>
+    <a href="https://swagger.io/" target="_blank"><img style="margin: 10px" src="https://marketplace.atlassian.com/product-listing/files/c7cb9627-e384-4303-8af0-aa33ea639d65?fileType=image&mode=full-fit" alt="Swagger" height="50" /></a>
 </div>
 </td>
 
