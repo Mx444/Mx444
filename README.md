@@ -82,7 +82,7 @@
 ### Package Managers
 <div align="center">
     <a href="https://www.npmjs.com/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToH3JTTwYl3EuHoPRvUT3c3wc7RvJAA-Y0Iw&s" alt="npm" height="50" /></a>
-    <a href="https://yarnpkg.com/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/yarn-icon-512x512-sie9o9h0.png" alt="Yarn" height="50" /></a>
+    <a href="https://yarnpkg.com/" target="_blank"><img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/yarn-package-manager-icon.png" alt="Yarn" height="50" /></a>
     <a href="https://pnpm.io/it/" target="_blank"><img style="margin: 10px" src="https://pnpm.io/it/img/pnpm-no-name-with-frame.svg" alt="PNPM" height="50" /></a>
 
 </div>
