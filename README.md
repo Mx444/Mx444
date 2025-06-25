@@ -130,7 +130,7 @@
     <a href="https://archlinux.org/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/512/arch-linux.png" alt="Arch" height="50" /></a>
     <a href="https://getfedora.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" alt="Fedora" height="50" /></a>
     <a href="https://ubuntu.com/server" target="_blank"><img style="margin: 10px" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu Server" height="50" /></a>
-    <a href="https://www.debian.org/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/debian-icon-412x512-0endfc13.png" alt="Debian Server" height="50" /></a>
+    <a href="https://www.debian.org/" target="_blank"><img style="margin: 10px" src="https://www.shareicon.net/data/512x512/2015/09/16/101872_debian_512x512.png" alt="Debian Server" height="50" /></a>
 </div>
 
 </tr>
