@@ -115,7 +115,7 @@
 
 ### Cloud & Hosting
 <div align="center">
-    <a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/vercel-icon-512x449-3422jidz.png" alt="Vercel" height="50" /></a>
+    <a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354513/vercel-icon.svg" alt="Vercel" height="50" /></a>
     <a href="https://railway.app/" target="_blank">
     <img style="margin: 10px" src="https://railway.app/brand/logo-light.png" alt="Railway" height="50" /></a>
     <a href="https://www.heroku.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" height="50" /></a>
