@@ -56,6 +56,8 @@
     <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
     <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
     <a href="https://www.portainer.io/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_100,h_100/https://api.charmhub.io/api/v1/media/download/charm_cMu7M9K6a65FsKZvrLZOZwyQradwbs7E_icon_5cef79c2d18f67464f39c8f2cf2d7ebb815b0071f04d3ffbb94f49fddd3ab666.png" alt="Portainer" height="50" /></a>
+      <a href="https://dokploy.com/" target="_blank"><img style="margin: 10px" src="https://files.raycast.com/2gjblfisq4h2hsb901wfwvnt23ve" alt="Dokployr" height="50" /></a>
+
 </div>
 </td>
 
